@@ -1,0 +1,80 @@
+D:\studying\chat course\chat\ChatHost\bin\Debug\ChatHost.exe.config
+D:\studying\chat course\chat\ChatHost\bin\Debug\ChatHost.exe
+D:\studying\chat course\chat\ChatHost\bin\Debug\ChatHost.pdb
+D:\studying\chat course\chat\ChatHost\bin\Debug\chat.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\chat.pdb
+D:\studying\chat course\chat\ChatHost\bin\Debug\chat.dll.config
+D:\studying\chat course\chat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\studying\chat course\chat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+D:\studying\chat course\chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\studying\chat course\chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\studying\chat course\chat\ChatHost\obj\Debug\ChatHost.exe
+D:\studying\chat course\chat\ChatHost\obj\Debug\ChatHost.pdb
+D:\studying\chat course\chat\ChatHost\bin\Debug\OpenAI_API.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Newtonsoft.Json.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Http.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Options.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Memory.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Numerics.Vectors.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Buffers.dll
+D:\studying\chat course\chat\ChatHost\bin\Debug\OpenAI_API.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Newtonsoft.Json.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Http.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Options.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Memory.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Numerics.Vectors.xml
+D:\studying\chat course\chat\ChatHost\bin\Debug\System.Buffers.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\ChatHost.exe.config
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\ChatHost.exe
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\ChatHost.pdb
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\chat.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\OpenAI_API.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Newtonsoft.Json.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Http.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Options.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Memory.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Numerics.Vectors.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Buffers.dll
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\chat.pdb
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\chat.dll.config
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\OpenAI_API.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Newtonsoft.Json.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Http.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Options.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Memory.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Numerics.Vectors.xml
+D:\studying\chat course\chat — копия\ChatHost\bin\Debug\System.Buffers.xml
+D:\studying\chat course\chat — копия\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\studying\chat course\chat — копия\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+D:\studying\chat course\chat — копия\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\studying\chat course\chat — копия\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\studying\chat course\chat — копия\ChatHost\obj\Debug\ChatHost.exe
+D:\studying\chat course\chat — копия\ChatHost\obj\Debug\ChatHost.pdb
