@@ -1,0 +1,7 @@
+D:\studying\chat course\chat\chat\bin\Debug\chat.dll.config
+D:\studying\chat course\chat\chat\bin\Debug\chat.dll
+D:\studying\chat course\chat\chat\bin\Debug\chat.pdb
+D:\studying\chat course\chat\chat\obj\Debug\chat.csproj.AssemblyReference.cache
+D:\studying\chat course\chat\chat\obj\Debug\chat.csproj.CoreCompileInputs.cache
+D:\studying\chat course\chat\chat\obj\Debug\chat.dll
+D:\studying\chat course\chat\chat\obj\Debug\chat.pdb
